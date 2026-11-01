@@ -1,23 +1,10 @@
 # Hi, I'm Daniel Galo
-Data science learner and Sales Support Team Lead, building data skills hands-on with Python, SQL and Bash, and working daily with Claude Code.
 
-## Current work
-**Sales Support Team Lead** at Rendszerinformatika Zrt.
+I'm passionate about data science and how data creates value. I learn by building, and **Claude Code** is the tool I work with every day.
 
-## Working with Claude Code
-Claude Code is the tool I use most, every day. I use it to:
-- write, review and refactor Python and SQL
-- automate repetitive tasks with Bash scripts
-- explore datasets and turn findings into clear results
-- learn faster by working through real problems with an AI pair programmer
-
-## Learning
-- Python for data analysis
-- SQL
-- Bash and the command line
-
-## Interests
-Investing and analyzing stock market data.
-
-## Connect
-[LinkedIn](https://www.linkedin.com/in/danielgalo/)
+<img src="https://api.iconify.design/lucide/briefcase.svg?color=%232f81f7" width="18" height="18" alt="" />&nbsp; Sales Support Team Lead at **Rendszerinformatika Zrt.**<br>
+<img src="https://api.iconify.design/lucide/terminal.svg?color=%232f81f7" width="18" height="18" alt="" />&nbsp; Using **Claude Code** daily to write, review and automate Python, SQL and Bash<br>
+<img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%232f81f7" width="18" height="18" alt="" />&nbsp; Learning **Data Science** with Python, SQL and Bash<br>
+<img src="https://api.iconify.design/lucide/code-xml.svg?color=%232f81f7" width="18" height="18" alt="" />&nbsp; Building hands-on projects, such as [hirek](https://github.com/gdaniel1979/hirek), an AI-assisted news summarizer<br>
+<img src="https://api.iconify.design/lucide/chart-line.svg?color=%232f81f7" width="18" height="18" alt="" />&nbsp; Investing and analyzing stock market data<br>
+<img src="https://api.iconify.design/lucide/link.svg?color=%232f81f7" width="18" height="18" alt="" />&nbsp; [LinkedIn](https://www.linkedin.com/in/danielgalo/)
