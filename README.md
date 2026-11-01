@@ -1,11 +1,26 @@
-👋 Hi, I'm Daniel Galo!  
-I’m passionate about data science and love exploring how data can create value. Here’s what I do:
+Hi, I'm Daniel Galo
 
-- 💼 I work as a Sales Support Team Lead at Rendszerinformatika Zrt.  
-- 📚 I’m learning **Data Science** with Python, SQL, and Bash.  
-- 📊 I enjoy building **data reports in Excel** and developing projects to gain hands-on experience.  
-- 📈 I’m interested in **investing** and **analyzing** stock market data.  
-- 🌱 Constantly learning new tools and techniques to improve my skills.  
+Data science learner and Sales Support Team Lead, building data skills hands-on with Python, SQL and Bash, and working daily with Claude Code.
 
-You can find me here:  
+Current work
+
+Sales Support Team Lead at Rendszerinformatika Zrt.
+
+Working with Claude Code
+
+Claude Code is the tool I use most, every day. I use it to:
+
+write, review and refactor Python and SQL
+automate repetitive tasks with Bash scripts
+explore datasets and turn findings into clear results
+learn faster by working through real problems with an AI pair programmer
+Learning
+Python for data analysis
+SQL
+Bash and the command line
+Interests
+
+Investing and analyzing stock market data.
+
+Connect
 - 🔗 [LinkedIn](https://www.linkedin.com/in/danielgalo/)
