@@ -21,5 +21,3 @@ Investing and analyzing stock market data.
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/danielgalo/)
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/danielgalo/)
